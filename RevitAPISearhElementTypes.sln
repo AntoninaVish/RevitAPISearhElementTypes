@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPISearhElementTypes", "RevitAPISearhElementTypes.csproj", "{450DAD16-0D09-45FD-A3B9-BDEB02E8766E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450DAD16-0D09-45FD-A3B9-BDEB02E8766E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450DAD16-0D09-45FD-A3B9-BDEB02E8766E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450DAD16-0D09-45FD-A3B9-BDEB02E8766E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450DAD16-0D09-45FD-A3B9-BDEB02E8766E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B889E95A-8886-4B68-B97D-9167AFC00F19}
+	EndGlobalSection
+EndGlobal

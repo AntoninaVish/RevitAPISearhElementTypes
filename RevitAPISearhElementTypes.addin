@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISearhElementTypes.dll"</Assembly>
+		<AddInId>57D90A1B-5BD4-45EC-B0CC-8BFFBF907452</AddInId>
+		<FullClassName>RevitAPISearhElementTypes.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Поиск типов элементов для Revit</Text>
+	</AddIn>
+</RevitAddIns>
